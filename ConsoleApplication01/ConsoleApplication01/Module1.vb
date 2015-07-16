@@ -1,6 +1,7 @@
 ﻿Imports System.Reflection.Assembly
 
 Class Test01
+    'dynamic dll call test
     Public Function f()
         Dim sra As System.Reflection.Assembly
         Dim o As Object
