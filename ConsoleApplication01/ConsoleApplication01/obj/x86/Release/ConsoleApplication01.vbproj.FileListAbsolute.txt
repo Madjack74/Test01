@@ -6,3 +6,12 @@ C:\Users\Jacques\documents\visual studio 2010\Projects\ConsoleApplication01\Cons
 C:\Users\Jacques\documents\visual studio 2010\Projects\ConsoleApplication01\ConsoleApplication01\obj\x86\Release\ConsoleApplicationJS01.exe
 C:\Users\Jacques\documents\visual studio 2010\Projects\ConsoleApplication01\ConsoleApplication01\obj\x86\Release\ConsoleApplicationJS01.xml
 C:\Users\Jacques\documents\visual studio 2010\Projects\ConsoleApplication01\ConsoleApplication01\obj\x86\Release\ConsoleApplicationJS01.pdb
+C:\Users\Jacques\Documents\GitHub\Test01\ConsoleApplication01\ConsoleApplication01\obj\x86\Release\ConsoleApplicationJS01.exe
+C:\Users\Jacques\Documents\GitHub\Test01\ConsoleApplication01\ConsoleApplication01\obj\x86\Release\ConsoleApplicationJS01.xml
+C:\Users\Jacques\Documents\GitHub\Test01\ConsoleApplication01\ConsoleApplication01\obj\x86\Release\ConsoleApplicationJS01.pdb
+C:\Users\Jacques\Documents\GitHub\Test01\EXE\ConsoleApplicationJS01.exe
+C:\Users\Jacques\Documents\GitHub\Test01\EXE\ConsoleApplicationJS01.pdb
+C:\Users\Jacques\Documents\GitHub\Test01\EXE\ConsoleApplicationJS01.xml
+C:\Users\Jacques\Documents\GitHub\Test01\ConsoleApplication01\ConsoleApplication01\obj\x86\Release\ConsoleApplication01.vbprojResolveAssemblyReference.cache
+C:\Users\Jacques\Documents\GitHub\Test01\ConsoleApplication01\ConsoleApplication01\obj\x86\Release\ConsoleApplication01.Resources.resources
+C:\Users\Jacques\Documents\GitHub\Test01\ConsoleApplication01\ConsoleApplication01\obj\x86\Release\ConsoleApplication01.vbproj.GenerateResource.Cache
