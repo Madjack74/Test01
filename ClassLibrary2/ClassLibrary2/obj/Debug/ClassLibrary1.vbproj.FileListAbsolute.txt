@@ -1,8 +1,0 @@
-C:\Users\Jacques\AppData\Local\Temporary Projects\ClassLibrary1\bin\Debug\Assembly02.dll
-C:\Users\Jacques\AppData\Local\Temporary Projects\ClassLibrary1\bin\Debug\Assembly02.pdb
-C:\Users\Jacques\AppData\Local\Temporary Projects\ClassLibrary1\bin\Debug\Assembly02.xml
-C:\Users\Jacques\AppData\Local\Temporary Projects\ClassLibrary1\obj\Debug\ClassLibrary1.Resources.resources
-C:\Users\Jacques\AppData\Local\Temporary Projects\ClassLibrary1\obj\Debug\ClassLibrary1.vbproj.GenerateResource.Cache
-C:\Users\Jacques\AppData\Local\Temporary Projects\ClassLibrary1\obj\Debug\Assembly02.dll
-C:\Users\Jacques\AppData\Local\Temporary Projects\ClassLibrary1\obj\Debug\Assembly02.xml
-C:\Users\Jacques\AppData\Local\Temporary Projects\ClassLibrary1\obj\Debug\Assembly02.pdb

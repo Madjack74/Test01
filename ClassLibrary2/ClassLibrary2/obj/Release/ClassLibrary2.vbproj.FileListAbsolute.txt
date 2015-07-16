@@ -1,9 +1,0 @@
-C:\Users\Jacques\Documents\Visual Studio 2010\Projects\EXE\Assembly02.dll
-C:\Users\Jacques\Documents\Visual Studio 2010\Projects\EXE\Assembly02.pdb
-C:\Users\Jacques\Documents\Visual Studio 2010\Projects\EXE\Assembly02.xml
-C:\Users\Jacques\Documents\Visual Studio 2010\Projects\ClassLibrary2\ClassLibrary2\obj\Release\ClassLibrary2.vbproj.GenerateResource.Cache
-C:\Users\Jacques\Documents\Visual Studio 2010\Projects\ClassLibrary2\ClassLibrary2\obj\Release\Assembly02.dll
-C:\Users\Jacques\Documents\Visual Studio 2010\Projects\ClassLibrary2\ClassLibrary2\obj\Release\Assembly02.xml
-C:\Users\Jacques\Documents\Visual Studio 2010\Projects\ClassLibrary2\ClassLibrary2\obj\Release\Assembly02.pdb
-C:\Users\Jacques\Documents\Visual Studio 2010\Projects\ClassLibrary2\ClassLibrary2\obj\Release\ClassLibrary2.Resources.resources
-C:\Users\Jacques\Documents\Visual Studio 2010\Projects\ClassLibrary2\ClassLibrary2\obj\Release\ClassLibrary2.vbprojResolveAssemblyReference.cache
