@@ -1,0 +1,16 @@
+C:\Users\Jacques\AppData\Local\Temporary Projects\ClassLibrary1\obj\Debug\ClassLibrary0.Resources.resources
+C:\Users\Jacques\AppData\Local\Temporary Projects\ClassLibrary1\obj\Debug\ClassLibrary0.vbproj.GenerateResource.Cache
+C:\Users\Jacques\AppData\Local\Temporary Projects\ClassLibrary1\bin\Debug\Assembly00.dll
+C:\Users\Jacques\AppData\Local\Temporary Projects\ClassLibrary1\bin\Debug\Assembly00.pdb
+C:\Users\Jacques\AppData\Local\Temporary Projects\ClassLibrary1\bin\Debug\Assembly00.xml
+C:\Users\Jacques\AppData\Local\Temporary Projects\ClassLibrary1\obj\Debug\Assembly00.dll
+C:\Users\Jacques\AppData\Local\Temporary Projects\ClassLibrary1\obj\Debug\Assembly00.xml
+C:\Users\Jacques\AppData\Local\Temporary Projects\ClassLibrary1\obj\Debug\Assembly00.pdb
+C:\Users\Jacques\Documents\Visual Studio 2010\Projects\ClassLibrary0\ClassLibrary0\obj\Debug\ClassLibrary0.Resources.resources
+C:\Users\Jacques\Documents\Visual Studio 2010\Projects\ClassLibrary0\ClassLibrary0\obj\Debug\ClassLibrary0.vbproj.GenerateResource.Cache
+C:\Users\Jacques\Documents\Visual Studio 2010\Projects\ClassLibrary0\ClassLibrary0\bin\Debug\Assembly00.dll
+C:\Users\Jacques\Documents\Visual Studio 2010\Projects\ClassLibrary0\ClassLibrary0\bin\Debug\Assembly00.pdb
+C:\Users\Jacques\Documents\Visual Studio 2010\Projects\ClassLibrary0\ClassLibrary0\bin\Debug\Assembly00.xml
+C:\Users\Jacques\Documents\Visual Studio 2010\Projects\ClassLibrary0\ClassLibrary0\obj\Debug\Assembly00.dll
+C:\Users\Jacques\Documents\Visual Studio 2010\Projects\ClassLibrary0\ClassLibrary0\obj\Debug\Assembly00.xml
+C:\Users\Jacques\Documents\Visual Studio 2010\Projects\ClassLibrary0\ClassLibrary0\obj\Debug\Assembly00.pdb
